@@ -47,8 +47,3 @@ _Until I decide to add _one last_ feature, that is..._
 While browsing a thrift store I came across [Omnigon](https://boardgamegeek.com/boardgame/4607/omnigon) on the shelf. I recreated the game in Godot to practice creating a state machine. It ended up also being useful practice for creating interactable objects without forcing them to inherit from the built-in Button class.
 
 ![Omnigon_DemoVid](https://github.com/user-attachments/assets/1aa6bdbb-067e-4ca9-9773-3419605ba30b)
-
-### PokeXplore [<img src="https://raw.githubusercontent.com/PokeXplore/PokeXploreData/refs/heads/main/src/main/resources/assets/pokexplore/icon.png" height="50em" align="center" alt="PokeXplore Logo" title="PokeXplore Logo"/>](https://www.pokexplore.com/)
-PokeXplore was a public Minecraft server primarily focused on the Pixelmon and Cobblemon mods. I opened PokeXplore in late 2019 as a hobby project, which exploded in popularity at the start of the pandemic. Over the next few years, the playerbase grew steadily, reaching an average of ~40 players online at a time during peak hours. I became known in the Pixelmon community for my use of trigonometry to create [visual effects](https://imgur.com/a/aura-catalogue-yLjZlwS).
-
-Running the server often had me scrambling to learn new things to meet the ever-growing demands of my players. I came to love to skills I learned (including some basic Python, Javascript, and SQL); In a real way, my interest in Computer Science today came from my experiences with PokeXplore. As demands from life left me less time to work on the server, PokeXplore officially closed in mid 2025.

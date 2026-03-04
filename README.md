@@ -21,6 +21,20 @@ AlexMcTeague/AlexMcTeague is a ✨ special ✨ repository because its `README.md
 
 ## 🔨 What I'm working on
 
+### [KMZ Processor / ImportGeoCSV](https://github.com/AlexMcTeague/KMZ-Processor)
+
+The combined efforts of a VBA-enabled Excel sheet, and a LISP Routine for AutoCAD. When combined, they can automatically extract the coordinates and object type from a KMZ strand drawing, and place matching objects in AutoCAD, eliminating a long manual process.
+
+https://github.com/user-attachments/assets/90419f4c-94c0-4da3-a75b-f62683bc7bb3
+
+### Other Excel VBA / AutoLISP Projects
+
+I'm always refining various sets of tools in VBA/LISP, to help me automate various aspects of Fiber OSP Design:
+
+- [Network Design Tools](https://github.com/AlexMcTeague/Network-Design-Tools)
+- [DesignShark](https://github.com/AlexMcTeague/NWA-DesignShark)
+- [RDOF QC Tool](https://github.com/AlexMcTeague/RDOF-QC-Tool)
+
 ### [Monstrous Ambition](https://github.com/Flark-And-Dei/Monstrous-Ambition) <img width="32" height="32" align="center" alt="icon" src="https://github.com/user-attachments/assets/c96c789f-f431-40a9-b6e6-7fa54997d818" />
 The "dream game" I'm making with my partner, [Caitlin Starkey](https://github.com/caitlin-starkey). Progress is slow, yet inevitable (please forgive the dev art for now). Our goal is to create a tactical rpg / monster tamer that combines our favorite genres.
 

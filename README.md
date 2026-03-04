@@ -22,7 +22,8 @@ AlexMcTeague/AlexMcTeague is a ✨ special ✨ repository because its `README.md
 ## 🔨 What I'm working on
 
 ### [Monstrous Ambition](https://github.com/Flark-And-Dei/Monstrous-Ambition) <img width="32" height="32" align="center" alt="icon" src="https://github.com/user-attachments/assets/c96c789f-f431-40a9-b6e6-7fa54997d818" />
-The "dream game" I'm making with my partner, [Caitlin Starkey](https://github.com/caitlin-starkey). Progress is slow, yet inevitable (please forgive the dev art for now). Our goal is to create a tactical rpg / monster tamer that combines our favorite genres. 
+The "dream game" I'm making with my partner, [Caitlin Starkey](https://github.com/caitlin-starkey). Progress is slow, yet inevitable (please forgive the dev art for now). Our goal is to create a tactical rpg / monster tamer that combines our favorite genres.
+Note: This repo is private, to avoid potential scraping of copyrighted content. If you're an employer checking out my work, please message me to request temporary access.
 
 Current Features:
 - JSON Editor: players will be able to create their own Elements and Species using the in-game editor
